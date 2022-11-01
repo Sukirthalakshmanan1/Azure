@@ -1,0 +1,8 @@
+From the portal page, search for Network Watcher and click on it.
+●In the Network Watcher page, click on Topology in the left bar.
+●From the Resource Group dropdown, select a resource group.
+●From the Virtual Network dropdown, select a virtual network.
+●It will show a topology diagram of the virtual network.
+●Click on a node in the diagram to see details of that node.
+
+157.49.255.104
